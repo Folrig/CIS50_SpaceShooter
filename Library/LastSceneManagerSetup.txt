@@ -1,0 +1,13 @@
+sceneSetups:
+- path: Assets/TitleScreen.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/MainScene.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/GameOverScreen.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/WinScreen.unity
+  isLoaded: 0
+  isActive: 0
