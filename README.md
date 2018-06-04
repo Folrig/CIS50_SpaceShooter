@@ -1,2 +1,2 @@
 # CIS50_SpaceShooter
-Space Shoot game for final
+Space Shooter game for final
